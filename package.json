@@ -7,16 +7,16 @@
     "Timothy Gu <timothygu99@gmail.com>"
   ],
   "dependencies": {
-    "loader-utils": "^1.1.0",
-    "pug-walk": "^1.0.0",
-    "resolve": "^1.1.7"
+    "loader-utils": "^2.0.0",
+    "pug-walk": "^2.0.0",
+    "resolve": "^1.19.0"
   },
   "peerDependencies": {
-    "pug": "^2.0.0"
+    "pug": "^3.0.0"
   },
   "devDependencies": {
     "mocha": "*",
-    "pug": "^2.0.0",
+    "pug": "^3.0.0",
     "should": "*"
   },
   "scripts": {
